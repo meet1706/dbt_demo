@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: demo
+    schema: hr # Replace with your bronze schema name
+    tables:
+      - name: employees
